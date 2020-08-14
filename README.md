@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I am Bruna Moreira 👋
 
-<!--
-**BrunaNayara/BrunaNayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' alt="gif with text We can create something better" src="https://media.giphy.com/media/KeFGfJtkL0p1mENWJ6/giphy.gif" width="230"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡️ About Me
+- 😄 Pronouns: she/her
+- 🌱 I’m currently studying [Python with PyLadies DF](https://github.com/pyladiesdf/python-fluent)
+- 👯 I like to colaborate in diverse communities
+- 💬 Ask me about cats, pole dancing and children programming
+
+
+##  What I am doing
+- 🔭 I’m currently mentoring on [BOSS](https://github.com/BOSS-BigOpenSourceSister)
+- 🤖 I'm working with chatbots and communication
+
+
+## 📬 Find me and get in touch
+
+* 📨 brunanayaramlima@gmail.com
+* 🔗 connect with me on [LinkedIn](https://www.linkedin.com/in/brunamoreiral)
+* 🃏 see my [decks](https://speakerdeck.com/brunamoreira/)
