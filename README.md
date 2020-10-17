@@ -16,7 +16,7 @@
 
 
 ## 📬 Find me and get in touch
-
+* 💻 [brunanayara.github.io](https://brunanayara.github.io/)
 * 📨 brunanayaramlima@gmail.com
 * 🔗 connect with me on [LinkedIn](https://www.linkedin.com/in/brunamoreiral)
 * 🃏 see my [decks](https://speakerdeck.com/brunamoreira/)
