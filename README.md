@@ -12,7 +12,7 @@
 
 ##  What I am doing
 - 🔭 I’m currently mentoring on [BOSS](https://github.com/BOSS-BigOpenSourceSister)
-- 🤖 I'm working with chatbots and communication
+- 🤖 I'm working with game development
 
 
 ## 📬 Find me and get in touch
